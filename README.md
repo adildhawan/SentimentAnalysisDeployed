@@ -18,5 +18,7 @@ Libraries and Frameworks Used:
   
   Streamlit - For hosting the model on the web
   
+  
+  
 The project is currently self hosted
 Will soon shift it entirely to streamlit
