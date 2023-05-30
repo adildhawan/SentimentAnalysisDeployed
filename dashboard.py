@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-
+!uvicorn sentimentapp:app --reload
 # Set up the main structure of the Streamlit app
 def main():
     st.title('Twitter Sentiment Analysis Dashboard')
