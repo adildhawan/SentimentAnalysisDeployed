@@ -24,6 +24,8 @@ The project is currently self hosted
 Will soon shift it entirely to streamlit
 
 Running Locally
+
+
 ![image](https://github.com/adildhawan/SentimentAnalysisDeployed/assets/133866329/bf0093d9-b0d0-4440-bf5d-bff4d4e56f52)
 
 ![image](https://github.com/adildhawan/SentimentAnalysisDeployed/assets/133866329/79e9a84f-cc0c-4a7f-8e81-bb47177c272d)
